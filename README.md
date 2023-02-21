@@ -41,5 +41,5 @@ O projeto foi desenvolvido utilizando React. O código em JavaScript está em co
 Para obter as citações aleatórias, utilizamos a API pública Quotable, fazendo uma requisição utilizando o método `fetch()` do JavaScript.
 
 Para estilizar o projeto, utilizamos o CSS.
-# Random-typewriter
+
 # machine-random-typewriter
